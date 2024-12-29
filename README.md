@@ -1,10 +1,11 @@
 ## Hi, I'm Xiaoting!👋
----
-- 👀 Seeking Software Engineer position in development
-- 🌱 Current student in CMU Master of Information Systems
-- 💞️ Skills in AWS Lambda, MongoDB, Redis, Django, PostgreSQL, Golang, Python, Websocket
-- 〰️ Experience in AWS services development, wen application development, distributed systems and Data Science
-- 🖥 Interest: DevOps, Web development
 
-I am now constantly making effort to learn new technologies and enrich my experience in software development. 
-I understand it is necessary to keep passionate about learning and technology. Keep moving on!
+---
+
+- 👀 Software Engineer | CMU Alumni
+- 💞️ Skills in Golang, Python, React, Service Design, Micro-Services, Django, AWS, MongoDB, Redis, PostgreSQL
+- 〰️ Experience in Golang Services, AWS services development, web application development, distributed systems and Data Science
+- 🖥 Interest: Backend Service development, Application development
+
+I have experience with Go, Micro-services, React, AWS, Flask, Python, and machine learning, where I automated client service processes, built scalable systems, and trained models to improve data accuracy.
+I am passionate about writing clean, maintainable code and driving operational improvements to support team success.
